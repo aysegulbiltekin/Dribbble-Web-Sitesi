@@ -1,0 +1,87 @@
+.sol{
+    width: 30%;
+    background-color: #f1cdd7;
+    color: rgb(134, 91, 107);
+    text-decoration: none;
+    
+}
+.sol img{
+    margin: auto;
+    width: 90%;
+}
+.sol h1{
+    color: #865c6c;
+    width: 80%;
+    font-size: 20px;
+}
+
+.sag{
+    margin-left: 600px;
+    margin-top: 0px;
+}
+.sag input[type="email"],
+.sag input[type="password"]
+
+.sag input[type="email"]:focus,
+.sag input[type="password"]:focus
+
+.sag input {
+    font-family: Arial, Helvetica, sans-serif;
+	border: none;
+	border-radius: 4px;
+	font-size: 15px;
+	margin: 0;
+	
+	padding: 10px;
+	box-sizing: border-box; 
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box; 
+	background-color: #e8eeef;
+	color:#8a97a0;
+	-webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+	box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+}
+
+.sag h2{
+    margin-left: 50px;
+    margin-bottom: 26px;
+    font: bold 24px/29px "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.sag button{
+    width: 250px;
+    font-size: 15px;
+    background-color: #1a73e8;
+    padding: 10px 10px;
+    margin:10px 10px 10px 10px;
+    border:none;
+    border-radius: 5px;
+    color:white;
+}
+
+
+.sag li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+.sag li a{
+
+    color:gray;
+    font-size: 30px;
+    transition: all ease-in-out 250ms;
+}
+.sag li a:hover{
+    color: #b9b9b9;
+}
+.sag td{
+    padding-left: 500px;
+}
+
+.text{
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;    
+}
+
+
+
+
